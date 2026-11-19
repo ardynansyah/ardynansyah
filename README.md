@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ayiprmd&theme=midnight&show_ring=false)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ardynansyah&theme=midnight&show_ring=false)
 
 ---
 
